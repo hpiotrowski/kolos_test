@@ -1,1 +1,2 @@
-#!/bin/bashecho "Witaj w skrypcie nr 3"
+#!/bin/bash
+echo "Witaj w skrypcie nr 3"
